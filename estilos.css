@@ -194,7 +194,6 @@ color: brown;
             
             position: absolute;
             
-            top: 300px;
                
         }
        
@@ -271,6 +270,17 @@ color: brown;
 
        }
 
+       .textoingles1{
+
+        font-size: 30px;
+            
+         text-align: justify;
+                    
+         color: rgb(255, 255, 255);
+      
+       }
+
+
        .contenedor{
          
       
@@ -279,8 +289,6 @@ color: brown;
         width: 100%;
         
         position: absolute;
-        
-        top: 500px;
            
        }
 
@@ -415,3 +423,36 @@ color: brown;
  
  background-image: url("imagenmate3.avif");
 }
+
+
+.textoingles1{
+
+  font-size: 30px;
+      
+   text-align: justify;
+              
+   color: rgb(245, 237, 237);
+
+ }
+
+ .textoingles1{
+
+  font-size: 30px;
+      
+   text-align: justify;
+              
+   color: rgb(255, 255, 255);
+
+ }
+
+ .textotecnologia{
+
+  font-size: 30px;
+      
+   text-align: justify;
+              
+   color: rgb(255, 255, 255);
+
+ }
+
+ 
